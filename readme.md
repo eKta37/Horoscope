@@ -1,7 +1,7 @@
 HOROSCOPE
 An application which predicts your future based on your ZODIAC SIGN/NUMBER.
 
-Concept Used -------------------------
+Concept Used
     Taking input
     Type casting - str to int
     Print on console
